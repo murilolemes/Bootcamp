@@ -40,4 +40,3 @@ class UsersRepository implements IUsersRepository {
 }
 
 export default UsersRepository;
-// 07:43
